@@ -1,7 +1,17 @@
+encoding: UTF-8
 
-title: Mi blog
-locale: es-PY
-name: Fátima Garay
-description: La necesidad de compartir la experiencia de ser madre es la que me ha llevado a crear este blog.
+theme: jekyll-theme-slate
 
-theme: jekyll-theme-time-machine
+author: "Fátima Garay"
+
+lang: "es-ES"
+
+permalink: date
+
+title: [La mamá de Zoe]
+
+description: [Aprendiendo todo de nuevo con mi hija]
+
+paginate_path: "/blog/docs:num/"
+
+pagination: 4
